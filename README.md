@@ -50,7 +50,7 @@ pkg install python git
 
 Clone the repository:
 
-git clone https://github.com/h07x/h07x-Web-Inspector.git
+git clone https://github.com/h07x/h07x-Web-Deface-Tool/blob/main/Web%20Deface%20Tool.py
 cd h07x-Web-Inspector
 
 Install dependencies if the project includes a "requirements.txt" file:
