@@ -12,11 +12,11 @@ h07x Web Deface Tool is a Python-based project for authorized website testing an
 
 # Termux
 
-`pkg update && pkg upgrade -y`
-`pkg install git python -y`
-`git clone https://github.com/h07x/h07x-Web-Deface-Tool.git`
-`cd h07x-Web-Deface-Tool`
-`python "Web Deface Tool.py`
+pkg update && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/h07x/h07x-Web-Deface-Tool.git
+cd h07x-Web-Deface-Tool
+python "Web Deface Tool.py" 
 
 # Requirements
 
